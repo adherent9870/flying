@@ -17,7 +17,7 @@ const App = () => {
       <Search />
       <Support />
       <Info />
-      {/* <Lounge /> */}
+      <Lounge />
       <Travelers />
       <Subscribers />
       <Footer />

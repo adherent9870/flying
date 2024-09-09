@@ -29,7 +29,7 @@ const Search = () => {
             <span>First Class</span>
           </div>
         </div>
-
+        <br />
         <div
           data-aos="fade-up"
           data-aos-duration="2500"
